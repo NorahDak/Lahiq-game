@@ -24,6 +24,7 @@
 
 ## 📸 App Screenshots
 Here’s a quick visual tour of the app’s sleek dark theme and gameplay.
+
 <img width="1642" height="1350" alt="صورة ٢٥‏-٤‏-٢٠٢٦ في الساعة ٩ ٠٣ م" src="https://github.com/user-attachments/assets/e1e6d1a9-a2a6-4f4b-aef9-57974075ffbd" />
 
 <img width="1642" height="1428" alt="صورة ٢٥‏-٤‏-٢٠٢٦ في الساعة ٩ ٠٥ م" src="https://github.com/user-attachments/assets/44378809-7fe1-413f-97e5-b9ba45145c1d" />
